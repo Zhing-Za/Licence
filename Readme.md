@@ -7,7 +7,7 @@ The creators of this Work (“The Licensor”) grant permission to any person, g
 
 ## Obligations
 
-The User must give appropriate credit to the Licensor, provide a copy of this license or a (clickable, if the medium allows) link to [https://github.com/Zhing-Za/Licence](https://github.com/Zhing-Za/Licence), and indicate whether and what kind of changes were made. The User may do so in any reasonable manner, but not in any way that suggests the Licensor endorses the User or their use.
+The User must give appropriate credit to the Licensor, provide a copy of this license or a (clickable, if the medium allows) link to [https://github.com/Zhing-Za/Licence](https://github.com/Zhing-Za/Licence), and indicate whether and what kind of changes were made. The User may do so in any reasonable manner, but not in any way that suggests the Licensor endorses the User or their use. If the work is adapted, the User must licence the adaptation under this same licence. 
 
 ## Prohibitions
 
@@ -22,7 +22,6 @@ No business entity where the ratio of pay (salaried, freelance, stocks, or other
 No private business run for profit with more than a thousand employees (de-facto or de-jure) may use the Work for any reason.
 
 The User is prohibited from selling the Work, unless is is part of a library, anthology, etc., where is is clear and obvious that the Work can be aqquired freely. That prohibition includes processing the Work with machine learning models. These terms can only be broken if The Licensor has given the user verifiable permision. 
-
 
 ## Sanctions
 
