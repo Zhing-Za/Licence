@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/86124634/212446104-2b66800b-597f-4b4c-a3a1-0e254f110f36.png" alt="enby flag" width="30px"/> Zhing-Za Custom License (ZHL-v1.0)
+# Zhing-Za Custom License (ZHL-v1.0)
 © Copyright {Licensor}
 
 ## Permissions
