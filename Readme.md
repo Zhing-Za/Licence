@@ -5,7 +5,7 @@
 The creators of this Work (“The Licensor”) grant permission to any person, group or legal entity that doesn't violate the prohibitions below (“The User”), to do everything with this Work that would otherwise infringe their copyright or any patent claims, subject to the following conditions:
 
 ## Obligations
-The User must give appropriate credit to the Licensor, provide a copy of this license or a (clickable, if the medium allows) link to https://github.com/Zhing-Za/Licence, and indicate whether and what kind of changes were made. The User may do so in any reasonable manner, but not in any way that suggests the Licensor endorses the User or their use. If the work is adapted, the User must license the adaptation under this same license.
+The User must give appropriate credit to the Licensor, provide a copy of this license or a (clickable, if the medium allows) link to [https://github.com/Zhing-Za/Licence](https://github.com/Zhing-Za/Licence), and indicate whether and what kind of changes were made. The User may do so in any reasonable manner, but not in any way that suggests the Licensor endorses the User or their use. If the work is adapted, the User must license the adaptation under this same license.
 
 ## Prohibitions
 No one may use this Work for purposes that are any of the following (or related): prejudiced, bigoted, racist, xenophobic, queerphobic, LGBT+ exclusionist, homophobic, biphobic, panphobic, aphobic, transphobic, enbyphobic, sexist, misogynistic, ecocidal, and-or chauvinist.
