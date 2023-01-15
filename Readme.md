@@ -10,7 +10,7 @@ The User must give appropriate credit to the Licensor, provide a copy of this li
 ## Prohibitions
 No one may use this Work for purposes that are any of the following (or related): prejudiced, bigoted, racist, xenophobic, queerphobic, LGBT+ exclusionist, homophobic, biphobic, panphobic, aphobic, transphobic, enbyphobic, sexist, misogynistic, ecocidal, and-or chauvinist.
 
-No one may use this Work to inflict or facilitate violence or abuse of human rights as defined in the (Universal Declaration of Human Rights)[https://www.un.org/en/about-us/universal-declaration-of-human-rights].
+No one may use this Work to inflict or facilitate violence or abuse of human rights as defined in the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights).
 
 No law enforcement, carceral institutions, immigration enforcement entities, military entities or military contractors may use the Work for any reason. This also applies to any individuals employed by those entities (de-facto or de-jure).
 
